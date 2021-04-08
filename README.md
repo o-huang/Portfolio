@@ -1,3 +1,2 @@
-# ohuang3.github.io
+# ohuang.net
 Personal website. 
-Check out the code if like.
